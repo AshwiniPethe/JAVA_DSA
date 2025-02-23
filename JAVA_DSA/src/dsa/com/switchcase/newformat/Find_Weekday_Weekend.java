@@ -1,13 +1,13 @@
 package dsa.com.switchcase.newformat;
 
-import java.lang.classfile.instruction.SwitchCase;
 import java.util.Scanner;
 
-public class weekday_weekend {
+public class Find_Weekday_Weekend {
 
 	public static void main(String[] args) {
 		
 		Scanner sc = new Scanner(System.in);
+		System.out.println("Please enter a valid day");
 		String day = sc.next();
 		
 		
@@ -18,5 +18,6 @@ public class weekday_weekend {
 		}
 
 	}
+
 
 }

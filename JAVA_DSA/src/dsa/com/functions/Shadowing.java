@@ -14,6 +14,6 @@ public class Shadowing {
 	
 	public static void fun(int a) {
 		
-		System.out.println("inside fucntion "+a);
+		System.out.println("inside function "+a);
 	}
 }

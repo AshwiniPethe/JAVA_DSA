@@ -4,5 +4,3 @@
 /**
  * 
  */
-module JAVA_DSA {
-}

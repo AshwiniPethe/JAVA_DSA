@@ -1,7 +1,5 @@
 package dsa.com.arrays;
 
-import java.util.Arrays;
-
 public class FindMaxWithinRange {
 
 	public static void main(String[] args) {
@@ -11,10 +9,6 @@ public class FindMaxWithinRange {
 		
 		findMax();
 		findMaxWithinRange();
-		
-		
-		
-
 	}
 	
 	public static void findMax() {

@@ -1,9 +1,8 @@
 package dsa.com.switchcase.oldformat;
 
-import java.lang.classfile.instruction.SwitchCase;
 import java.util.Scanner;
 
-public class weekday_weekend {
+public class Find_Weekday_Weekend {
 
 	public static void main(String[] args) {
 		
@@ -30,5 +29,7 @@ public class weekday_weekend {
 		}
 
 	}
+
+
 
 }

@@ -1,7 +1,6 @@
 package dsa.com.loops.dowhile;
 
-import java.lang.classfile.instruction.SwitchCase;
-import java.util.Scanner;
+import java.util.*;
 
 public class weekday_weekend {
 
